@@ -1,3 +1,11 @@
-# Congenital Underreporting
+# Pogit Tutorials
 
-Analysis for the congenital defects underreporting / outliers project.
+## Requirements
+- regmod 0.0.6 (`pip install regmod==0.0.6`)
+- numpy
+- matplotlib
+- pandas
+- jupyter
+- scipy
+
+Tested with Python 3.9.6
