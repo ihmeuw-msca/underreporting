@@ -4,7 +4,7 @@
 - regmod 0.0.6 (`pip install regmod==0.0.6`)
 - numpy
 - matplotlib
-- pandas
+- pandas>=1.3.1
 - jupyter
 - scipy
 
