@@ -7,5 +7,6 @@
 - pandas>=1.3.1
 - jupyter
 - scipy
+- PyYAML
 
 Tested with Python 3.9.6
