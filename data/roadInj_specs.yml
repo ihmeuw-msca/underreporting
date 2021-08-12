@@ -1,0 +1,11 @@
+age_spline_specs:
+  knots: [ 0.4995, 16.0, 82.0]
+  degree: 2
+  l_linear: False
+  r_linear: False
+  include_first_basis: True
+
+coefs:
+  Intercept: -3.53422393
+  age: [-2.19038771, 0.22322801, -0.73047513, -0.83658909]
+  sex: 0.33651127
